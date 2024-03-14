@@ -1,13 +1,13 @@
 body {
-    color:#000000;
-    background-color: white;
+    color:#FF0000;
+    background-color: Black;
     text-align: center;
     font-family: 'Contrail One', sans-serif;
     justify-content: space-between;
 }
 
 h1 {
-    color: #000000;
+    color: #FF0000;
     font-family: 'Contrail One', sans-serif;
     font-size: 4em;
     margin-block-start: 0.67em;
@@ -17,24 +17,24 @@ h1 {
     font-weight: light;
     margin-top: 50px;
     justify-content: center;
-    background-color: white;
+    background-color: Black;
 }
 
 h2 {
-    color: #000000;
+    color: #FF0000;
     font-family: 'Contrail One', sans-serif;
     text-decoration: none;
 }
 
 p {
-    color: #000000;
+    color: #FF0000;
     font-family: 'Contrail One', sans-serif;
     text-decoration: none;
 }
 
 nav a {
     margin: 20px;
-    color: #000000;
+    color: #FF0000;
     text-align: center;
     text-decoration: none;
     font-family: 'Contrail One', sans-serif;
@@ -43,7 +43,7 @@ nav a {
 
   .hacks a {
     text-decoration: none;
-    color: #000000;
+    color: #FF0000;
     font-family: 'Contrail One', sans-serif;
     text-decoration: none;
     border: 2px solid #262626;
@@ -53,7 +53,7 @@ nav a {
   }
 
   .hacks:hover {
-    color: #000000;
+    color: #FF0000;
     background-color: #262626;
     font-family: 'Contrail One', sans-serif;
     text-decoration: none;
