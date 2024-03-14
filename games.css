@@ -1,18 +1,18 @@
 body {
-    color: #000000;
-    background-color: white;
+    color: #FF0000;
+    background-color: Black;
     text-align: center;
     font-family: 'Contrail One', sans-serif;
 }
 
 h1 {
-    color: #000000;
+    color: #FF0000;
     font-family: 'Contrail One', sans-serif;
     text-decoration: bold;
   }
 
   .game {
-    color: #000000;
+    color: #FF0000;
     font-family: 'Contrail One', sans-serif;
     text-decoration: none;
     border: 2px solid #262626;
@@ -22,7 +22,7 @@ h1 {
   }
 
   .game:hover {
-    color: #000000;
+    color: #FF0000;
     background-color: #262626;
     font-family: 'Contrail One', sans-serif;
     text-decoration: none;
@@ -34,7 +34,7 @@ h1 {
 
 .suggest {
   font-size: 15px;
-  color: #000000;
+  color: #FF0000;
   font-family: 'Contrail One', sans-serif;
 }
 
@@ -68,7 +68,7 @@ h1 {
 nav a {
   margin: 20px;
   margin-top: 20px;
-  color: #000000;
+  color:#FF0000;
   text-align: center;
   text-decoration: none;
   font-family: 'Contrail One', sans-serif;
@@ -77,8 +77,8 @@ nav a {
 nav {
   padding-bottom: 10px;
   padding-top: 10px;
-  background-color: #000000;
-  box-shadow: #000000;
+  background-color: #1a1a1a;
+  box-shadow: #1a1a1a;
 }
 
 input[type="text"] {
@@ -91,7 +91,7 @@ input[type="text"] {
   border-radius: 5px;
   outline: none;
   margin: 10px;
-  border: 2px solid #fff;
+  border: 2px solid #FF0000;
   border-radius: 5px;
   transition: opacity 0.25s ease-in-out;
   opacity: 100%;
