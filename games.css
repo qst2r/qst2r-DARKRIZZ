@@ -1,18 +1,18 @@
 body {
-    color: #fff;
-    background-color: black;
+    color: #000000;
+    background-color: white;
     text-align: center;
     font-family: 'Contrail One', sans-serif;
 }
 
 h1 {
-    color: #fff;
+    color: #000000;
     font-family: 'Contrail One', sans-serif;
     text-decoration: bold;
   }
 
   .game {
-    color: #fff;
+    color: #000000;
     font-family: 'Contrail One', sans-serif;
     text-decoration: none;
     border: 2px solid #262626;
@@ -22,7 +22,7 @@ h1 {
   }
 
   .game:hover {
-    color: #fff;
+    color: #000000;
     background-color: #262626;
     font-family: 'Contrail One', sans-serif;
     text-decoration: none;
@@ -34,7 +34,7 @@ h1 {
 
 .suggest {
   font-size: 15px;
-  color: #fff;
+  color: #000000;
   font-family: 'Contrail One', sans-serif;
 }
 
@@ -68,7 +68,7 @@ h1 {
 nav a {
   margin: 20px;
   margin-top: 20px;
-  color: #fff;
+  color: #000000;
   text-align: center;
   text-decoration: none;
   font-family: 'Contrail One', sans-serif;
