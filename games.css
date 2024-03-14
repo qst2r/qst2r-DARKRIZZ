@@ -77,8 +77,8 @@ nav a {
 nav {
   padding-bottom: 10px;
   padding-top: 10px;
-  background-color: #fff;
-  box-shadow: #fff;
+  background-color: #000000;
+  box-shadow: #000000;
 }
 
 input[type="text"] {
